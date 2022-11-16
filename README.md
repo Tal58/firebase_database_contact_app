@@ -52,7 +52,7 @@ Build a Contact app using React via FireBase Real Time Data Base. In addition, a
 
 - React
 
--.env file
+- .env file
 
 - CRUD operations with React and Fire Base Real Time Data Base.
 
