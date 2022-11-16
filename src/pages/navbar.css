@@ -1,0 +1,14 @@
+
+    @media only screen and (min-width: 899px) {
+        .bjk{
+            display: flex !important;
+            justify-content: space-between !important;
+        }
+    }
+
+    .bjkicon{
+        height: auto !important;
+    }
+    .cover{
+        padding: 0.6% 0;
+    }
