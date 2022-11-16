@@ -85,7 +85,7 @@ Build a Contact app using React via FireBase Real Time Data Base. In addition, a
 
 ## 🖥️Desktop version (ADD operations on todo app-left side shows server)
 <br>
-<img src="./images/addTodo.gif" align="left" alt="desktop_version">
+<img src="./images/desktop.gif" align="left" alt="desktop_version">
 <br>
 <br>
 <br>
