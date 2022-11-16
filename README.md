@@ -74,7 +74,7 @@ Build a Contact app using React via FireBase Real Time Data Base. In addition, a
 
 - use git commands (push, pull, commit, add etc.) and Github as Version Control System.
 
-🔗 <b>To see the live version please clone the code with backend API files<b>
+🔗 <b>To see the live version https://firebase-database-contact-app.netlify.app/<b> 
 
 
 **<p align="center">&#9786; Happy Coding &#9997;</p>**
